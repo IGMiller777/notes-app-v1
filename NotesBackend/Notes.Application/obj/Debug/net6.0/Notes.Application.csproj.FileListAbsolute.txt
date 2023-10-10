@@ -1,0 +1,15 @@
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Application/bin/Debug/net6.0/Notes.Application.deps.json
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Application/bin/Debug/net6.0/Notes.Application.dll
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Application/bin/Debug/net6.0/Notes.Application.pdb
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Application/bin/Debug/net6.0/Notes.Domain.dll
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Application/bin/Debug/net6.0/Notes.Domain.pdb
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Application/obj/Debug/net6.0/Notes.Application.csproj.AssemblyReference.cache
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Application/obj/Debug/net6.0/Notes.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Application/obj/Debug/net6.0/Notes.Application.AssemblyInfoInputs.cache
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Application/obj/Debug/net6.0/Notes.Application.AssemblyInfo.cs
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Application/obj/Debug/net6.0/Notes.Application.csproj.CoreCompileInputs.cache
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Application/obj/Debug/net6.0/Notes.Application.csproj.CopyComplete
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Application/obj/Debug/net6.0/Notes.Application.dll
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Application/obj/Debug/net6.0/refint/Notes.Application.dll
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Application/obj/Debug/net6.0/Notes.Application.pdb
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Application/obj/Debug/net6.0/ref/Notes.Application.dll

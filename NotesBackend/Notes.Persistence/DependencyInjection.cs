@@ -1,0 +1,20 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Notes.Application.Interfaces;
+
+namespace Notes.Persistence;
+
+public class DependencyInjection
+{
+    public static IServiceCollection AddPersistence(IServiceCollection services, IConfiguration configuration)
+    {
+        var connectionString = configuration["DbConnection"];
+        services.AddDbContext<NotesDbContext>(options =>
+        {
+            options.UseSqlServer(connectionString);
+        });
+        services.AddScoped<INotesDbContext>(provider => provider.GetService<NotesDbContext>());
+        return services;
+    }
+}

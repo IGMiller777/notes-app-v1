@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/notes-app-v1/NotesBackend/Notes.Application/Notes.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/notes-app-v1/NotesBackend/Notes.Application/Notes.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/notes-app-v1/NotesBackend/Notes.Application/Notes.Application.csproj",
+        "projectName": "Notes.Application",
+        "projectPath": "/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/notes-app-v1/NotesBackend/Notes.Application/Notes.Application.csproj",
+        "packagesPath": "/Users/ivangamanovich/.nuget/packages/",
+        "outputPath": "/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/notes-app-v1/NotesBackend/Notes.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ivangamanovich/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/notes-app-v1/NotesBackend/Notes.Domain/Notes.Domain.csproj": {
+                "projectPath": "/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/notes-app-v1/NotesBackend/Notes.Domain/Notes.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.21, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/notes-app-v1/NotesBackend/Notes.Domain/Notes.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/notes-app-v1/NotesBackend/Notes.Domain/Notes.Domain.csproj",
+        "projectName": "Notes.Domain",
+        "projectPath": "/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/notes-app-v1/NotesBackend/Notes.Domain/Notes.Domain.csproj",
+        "packagesPath": "/Users/ivangamanovich/.nuget/packages/",
+        "outputPath": "/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/notes-app-v1/NotesBackend/Notes.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ivangamanovich/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Persistence/bin/Debug/net6.0/Notes.Persistence.deps.json
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Persistence/bin/Debug/net6.0/Notes.Persistence.dll
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Persistence/bin/Debug/net6.0/Notes.Persistence.pdb
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Persistence/bin/Debug/net6.0/Notes.Application.dll
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Persistence/bin/Debug/net6.0/Notes.Domain.dll
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Persistence/bin/Debug/net6.0/Notes.Application.pdb
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Persistence/bin/Debug/net6.0/Notes.Domain.pdb
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Persistence/obj/Debug/net6.0/Notes.Persistence.csproj.AssemblyReference.cache
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Persistence/obj/Debug/net6.0/Notes.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Persistence/obj/Debug/net6.0/Notes.Persistence.AssemblyInfoInputs.cache
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Persistence/obj/Debug/net6.0/Notes.Persistence.AssemblyInfo.cs
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Persistence/obj/Debug/net6.0/Notes.Persistence.csproj.CoreCompileInputs.cache
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Persistence/obj/Debug/net6.0/Notes.Persistence.csproj.CopyComplete
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Persistence/obj/Debug/net6.0/Notes.Persistence.dll
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Persistence/obj/Debug/net6.0/refint/Notes.Persistence.dll
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Persistence/obj/Debug/net6.0/Notes.Persistence.pdb
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Persistence/obj/Debug/net6.0/ref/Notes.Persistence.dll
