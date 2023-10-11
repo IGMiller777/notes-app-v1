@@ -10,3 +10,15 @@
 /Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Domain/obj/Debug/net6.0/refint/Notes.Domain.dll
 /Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Domain/obj/Debug/net6.0/Notes.Domain.pdb
 /Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/NotesBackend/Notes.Domain/obj/Debug/net6.0/ref/Notes.Domain.dll
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/notes-app-v1/NotesBackend/Notes.Domain/bin/Debug/net6.0/Notes.Domain.deps.json
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/notes-app-v1/NotesBackend/Notes.Domain/bin/Debug/net6.0/Notes.Domain.dll
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/notes-app-v1/NotesBackend/Notes.Domain/bin/Debug/net6.0/Notes.Domain.pdb
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/notes-app-v1/NotesBackend/Notes.Domain/obj/Debug/net6.0/Notes.Domain.csproj.AssemblyReference.cache
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/notes-app-v1/NotesBackend/Notes.Domain/obj/Debug/net6.0/Notes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/notes-app-v1/NotesBackend/Notes.Domain/obj/Debug/net6.0/Notes.Domain.AssemblyInfoInputs.cache
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/notes-app-v1/NotesBackend/Notes.Domain/obj/Debug/net6.0/Notes.Domain.AssemblyInfo.cs
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/notes-app-v1/NotesBackend/Notes.Domain/obj/Debug/net6.0/Notes.Domain.csproj.CoreCompileInputs.cache
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/notes-app-v1/NotesBackend/Notes.Domain/obj/Debug/net6.0/Notes.Domain.dll
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/notes-app-v1/NotesBackend/Notes.Domain/obj/Debug/net6.0/refint/Notes.Domain.dll
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/notes-app-v1/NotesBackend/Notes.Domain/obj/Debug/net6.0/Notes.Domain.pdb
+/Users/ivangamanovich/IGM/Programming/FullApps/NotesBackend/notes-app-v1/NotesBackend/Notes.Domain/obj/Debug/net6.0/ref/Notes.Domain.dll

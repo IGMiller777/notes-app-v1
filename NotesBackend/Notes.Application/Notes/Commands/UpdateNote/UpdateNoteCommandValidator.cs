@@ -1,12 +1,13 @@
 using FluentValidation;
 
-namespace Notes.Application.Notes.Commands.CreateNote;
+namespace Notes.Application.Notes.Commands.UpdateNote;
 
-public class CreateNoteCommandValidator: AbstractValidator<CreateNoteCommand>
+public class UpdateNoteCommandValidator: AbstractValidator<UpdateNoteCommand>
 {
-    public CreateNoteCommandValidator()
+    public UpdateNoteCommandValidator()
     {
-        RuleFor(createNoteCommand => createNoteCommand.Title).NotEmpty().MaximumLength(250);
-        RuleFor(createNoteCommand => createNoteCommand.UserId).NotEqual(Guid.Empty);
+        RuleFor(updateNoteCommand => updateNoteCommand.UserId).NotEqual(Guid.Empty);
+        RuleFor(updateNoteCommand => updateNoteCommand.Id).NotEqual(Guid.Empty);
+        RuleFor(updateNoteCommand => updateNoteCommand.Title).NotEmpty().MaximumLength(250);
     }
 }
